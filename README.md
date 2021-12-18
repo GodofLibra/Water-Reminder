@@ -2,6 +2,10 @@
 
 This app helps you to stay hydrated and also remindes you to drink water as per you body weight
 
+People who are enthusiuest un android should defineatly make this project.
+
+This app is build in KOTLIN language and with the help of Android Studio.
+
 ![image](https://user-images.githubusercontent.com/67241289/145762740-a7e55b77-8626-4b40-84b2-83d38e728659.png)
 
 ![image](https://user-images.githubusercontent.com/67241289/145762741-a2aa4c5d-6847-46fa-b036-f4e513218297.png)
