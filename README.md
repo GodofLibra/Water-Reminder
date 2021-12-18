@@ -16,6 +16,4 @@ This app is build in KOTLIN language and with the help of Android Studio.
 
 ![image](https://user-images.githubusercontent.com/67241289/145762750-d13a2a7a-fffa-4bd0-8677-5dece2cb075d.png)
 
-Icon
-
 ![image](https://user-images.githubusercontent.com/67241289/145762753-940576d4-1140-4108-a25c-6a083850b7a0.png)
